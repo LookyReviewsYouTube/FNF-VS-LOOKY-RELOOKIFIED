@@ -19,7 +19,7 @@
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
 	<meta build-number="340" />
 	<config type="android" gradle-version="8.10.2" gradle-plugin="8.8.0" ndkVersion="27.3"
-		minimum-sdk-version="26" target-sdk-version="35" />
+		minimum-sdk-version="26" target-sdk-version="35"  />
 	<!-- NOTE TO SELF: DISABLE THIS IF ISSUES ARE FOUND -->
 	<haxedef name="LINC_LUA_RELATIVE_DYNAMIC_LIB" /> <!-- stable luas PUT AFTER FIRST LINE WITH APP
 	NAME AND ETC -->
@@ -380,6 +380,10 @@
 	<section unless="PROFILE_BUILD">
 		<section if="mobile">
 			<config type="android" pslice-mono-icon="art/mobile/iconMono.png" />
+			
+			<config type="android" pslice-firebase-sdk-path="/home/mikolka/Desktop/firebase_cpp_sdk/" />
+			<template path="art/google-services.json" rename="google-services.json" />
+
 			<config type="ios" pslice-icon-dir="art/mobile/PSlice.appiconset" />
 			<icon path="art/mobile/iconAdaptive.png" if="android" />
 			<icon path="art/mobile/iconMobile.png" unless="android" />

@@ -225,9 +225,12 @@ class FlxTimer implements IFlxDestroyable
 	{
 		if (finished)
 			cancel();
-
-		if (onComplete != null)
-			onComplete(this);
+		try{
+			if (onComplete != null)
+				onComplete(this);
+		} catch(e:Dynamic){
+			trace("FlxTimer onComplete threw error: " + Std.string(e));
+		}
 	}
 
 	inline function get_timeLeft():Float
