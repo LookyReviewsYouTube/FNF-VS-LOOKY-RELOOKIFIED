@@ -52,7 +52,7 @@ jobs:
 
       - name: Install hxvlc for windows
         run: haxelib install hxvlc 2.2.2 --quiet
-        if: inputs.os == 'ubuntu-latest' && steps.load-lib-cache.outputs.cache-hit != 'true'
+        if: inputs.os == 'ubuntu-24.04' && steps.load-lib-cache.outputs.cache-hit != 'true'
    
       - name: Uploading new cache
         if: steps.load-lib-cache.outputs.cache-hit != 'true'
