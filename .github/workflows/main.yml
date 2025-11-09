@@ -27,6 +27,17 @@ jobs:
       os: ${{ matrix.os }}
       CACHE_NAME: ${{ matrix.CACHE_NAME }}
       setupScript: ${{ matrix.setupScript }}
+  BuildMacos:
+    name: macos
+    needs: BuildCaches
+    permissions: write-all
+    uses: ./.github/workflows/mac-universal.yml
+    with:
+      exportPath: macos
+      cachePath: P-Slice.0.6.3.build-macos
+      cacheLibrariesPath: P-Slice.0.6.3.desktop-cache
+      artifactName: P-Slice.0.6.3.macos
+      artifactPath: export/PE0.6.3/release/macos/bin/*
   BuildDesktop:
     name: ${{ matrix.name }}
     needs: BuildCaches
