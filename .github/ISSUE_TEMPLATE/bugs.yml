@@ -17,16 +17,18 @@ body:
     validations:
       required: false
 
-  - type: dropdown
+  - type: textarea
     id: modding
     attributes:
-      label: "Are you modding a build from source or with Lua?"
-      options:
-        - Lua
-        - Source
-        - No modding
+      label: "Are you modding your build? If so, enter the mods/scripts installed."
     validations:
       required: true  
+      
+  - type: input
+    id: pslice-version
+    attributes:
+      label: "For mobile: Enter here your UserID (you can find it in latest.log)"
+      placeholder: "123" 
 
   - type: input
     id: pslice-version
@@ -61,8 +63,4 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: pslice-version
-    attributes:
-      label: "For mobile: Enter here your UserID (you can find it in latest.log)"
-      placeholder: "123" 
+

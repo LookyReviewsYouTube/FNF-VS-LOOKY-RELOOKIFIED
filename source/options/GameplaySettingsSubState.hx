@@ -144,7 +144,6 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 
 	function onChangeVibration()
 	{
-		if(ClientPrefs.data.vibrating)
-			lime.ui.Haptic.vibrate(0, 500);
+		HapticUtil.vibrate(0, Constants.DEFAULT_VIBRATION_DURATION);
 	}
 }

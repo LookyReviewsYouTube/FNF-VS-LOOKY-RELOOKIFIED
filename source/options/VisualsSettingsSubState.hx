@@ -152,9 +152,15 @@ class VisualsSettingsSubState extends BaseOptionsMenu
 		
 		var option:Option = new Option('FPS Counter',
 			'If unchecked, hides FPS Counter.',
-			'showFPS',
-			BOOL);
+			'showFPSOpacity',
+			PERCENT);
+		option.scrollSpeed = 1.6;
+		option.minValue = 0.0;
+		option.maxValue = 1;
+		option.changeValue = 0.1;
+		option.decimals = 1;
 		addOption(option);
+
 		option.onChange = onChangeFPSCounter;
 
 		var option:Option = new Option('FPS Rework',
@@ -328,7 +334,8 @@ class VisualsSettingsSubState extends BaseOptionsMenu
 	{
 		if(Main.debugDisplay != null){
 			Main.debugDisplay.isAdvanced = ClientPrefs.data.fpsRework;
-			Main.debugDisplay.visible = ClientPrefs.data.showFPS;
+			Main.debugDisplay.visible = ClientPrefs.data.showFPSOpacity != 0;
+			Main.debugDisplay.backgroundOpacity = ClientPrefs.data.showFPSOpacity;
 		}
 	}
 

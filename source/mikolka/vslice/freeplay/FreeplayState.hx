@@ -171,6 +171,7 @@ class FreeplayState extends MusicBeatSubstate
 	var intendedCompletion:Float = 0;
 	var lerpScore:Float = 0;
 	var intendedScore:Int = 0;
+	
 
 	var grpDifficulties:FlxTypedSpriteGroup<DifficultySprite>;
 
@@ -1052,6 +1053,9 @@ class FreeplayState extends MusicBeatSubstate
 		curCapsule.ranking.visible = false;
 		curCapsule.blurredRanking.visible = false;
 
+		// Rank animation vibrations.
+    	HapticUtil.increasingVibrate(Constants.MIN_VIBRATION_AMPLITUDE, Constants.MAX_VIBRATION_AMPLITUDE, 0.6);
+
 		rankCamera.zoom = 1.85;
 		FlxTween.tween(rankCamera, {"zoom": 1.8}, 0.6, {ease: FlxEase.sineIn});
 
@@ -1176,6 +1180,10 @@ class FreeplayState extends MusicBeatSubstate
 		FlxTween.tween(curCapsule, {"targetPos.x": originalPos.x, "targetPos.y": originalPos.y}, 0.5, {ease: FlxEase.expoOut});
 		new FlxTimer().start(0.5, _ ->
 		{
+			// Capsule slam vibration.
+      		HapticUtil.vibrate(Constants.DEFAULT_VIBRATION_PERIOD, Constants.DEFAULT_VIBRATION_DURATION, Constants.MAX_VIBRATION_AMPLITUDE);
+
+
 			funnyCam.shake(0.0045, 0.35);
 
 			if (fromResultsParams?.newRank == SHIT)
@@ -1639,6 +1647,16 @@ class FreeplayState extends MusicBeatSubstate
 		{
 			changeSelection(grpCapsules.countLiving() - curSelected - 1);
 		}
+		lerpScoreDisplays(elapsed);
+
+		handleInputs(elapsed);
+
+		if (dj != null)
+			FlxG.watch.addQuick('dj-anim', dj.getCurrentAnimation());
+	}
+
+	function lerpScoreDisplays(elapsed:Float):Void
+	{
 		lerpScore = MathUtil.smoothLerp(lerpScore, intendedScore, elapsed, 0.5);
 		lerpCompletion = MathUtil.smoothLerp(lerpCompletion, intendedCompletion, elapsed, 0.5);
 
@@ -1668,13 +1686,7 @@ class FreeplayState extends MusicBeatSubstate
 			default:
 				txtCompletion.offset.x = 0;
 		}
-
-		handleInputs(elapsed);
-
-		if (dj != null)
-			FlxG.watch.addQuick('dj-anim', dj.getCurrentAnimation());
-	}
-
+	} 
 	function handleInputs(elapsed:Float):Void
 	{
 		if (busy)
@@ -2199,6 +2211,8 @@ class FreeplayState extends MusicBeatSubstate
 
 		backingCard?.confirm();
 
+		HapticUtil.vibrate(0, 0.01, 0.5);
+
 		new FlxTimer().start(styleData?.getStartDelay(), function(tmr:FlxTimer)
 		{
 			FreeplayHelpers.moveToPlaystate(this, cap.songData, currentDifficulty, targetInstId);
@@ -2286,8 +2300,10 @@ class FreeplayState extends MusicBeatSubstate
 				return;
 			}
 
-		if (!prepForNewRank && curSelected != prevSelected && change != 0)
+		if (!prepForNewRank && curSelected != prevSelected && change != 0){
+			HapticUtil.vibrate(0, 0.01, 0.5);
 			FunkinSound.playOnce(Paths.sound('scrollMenu'), 0.4);
+		}
 
 		var daSongCapsule:SongMenuItem = curCapsule;
 		if (daSongCapsule.songData != null)

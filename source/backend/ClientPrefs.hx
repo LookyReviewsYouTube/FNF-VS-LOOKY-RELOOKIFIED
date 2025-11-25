@@ -30,6 +30,7 @@ import states.InitState;
 	public var middleScroll:Bool = false;
 	public var opponentStrums:Bool = true;
 	public var showFPS:Bool = true;
+	public var showFPSOpacity:Float = 0.6;
 	public var fpsRework:Bool = false;
 	public var flashing:Bool = true;
 	public var autoPause:Bool = true;
@@ -251,7 +252,9 @@ class ClientPrefs {
 		
 		if(Main.debugDisplay != null){
 			Main.debugDisplay.isAdvanced = data.fpsRework;
-			Main.debugDisplay.visible = data.showFPS;
+			Main.debugDisplay.visible = data.showFPSOpacity != 0;
+			Main.debugDisplay.backgroundOpacity = data.showFPSOpacity;
+			
 		}
 
 		#if (!html5 && !switch)

@@ -4,7 +4,7 @@ labels: [external]
 body:
   - type: textarea
     attributes:
-      label: What is your question?
+      label: What is your issue?
     validations:
       required: true
   - type: textarea

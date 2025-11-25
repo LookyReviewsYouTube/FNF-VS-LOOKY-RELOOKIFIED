@@ -42,6 +42,7 @@ class GridTile extends TouchButton
 	public function playSelectedAnim()
 	{
         host.hideButtons();
+		HapticUtil.vibrate(0, 0.05, 0.5);
 		FlxFlicker.flicker(this, 1, 0.06, false, false, function(flick:FlxFlicker)
 		{
 			callback();
@@ -50,6 +51,7 @@ class GridTile extends TouchButton
 	}
 	public function playHoverAnim() {
 		animation.play("selected");
+		HapticUtil.vibrate(0, 0.05, 0.5);
 		updateHitbox();
 		centerOrigin();
 		offset.copyFrom(selectedOffset);

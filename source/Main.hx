@@ -72,6 +72,9 @@ class Main extends Sprite
 		Sys.setCwd(StorageUtil.getStorageDirectory());
 		#end
 
+		#if mobile
+		extension.haptics.Haptic.initialize();
+		#end
 		#if sys
 
 		//cpp.vm.Gc.setTargetFreeSpacePercentage(30);
@@ -298,7 +301,8 @@ class Main extends Sprite
 
 		if (debugDisplay != null)
 		{
-			debugDisplay.visible = ClientPrefs.data.showFPS;
+			debugDisplay.visible = ClientPrefs.data.showFPSOpacity != 0;
+			debugDisplay.backgroundOpacity = ClientPrefs.data.showFPSOpacity;
 			debugDisplay.isAdvanced = ClientPrefs.data.fpsRework;
 		}
 

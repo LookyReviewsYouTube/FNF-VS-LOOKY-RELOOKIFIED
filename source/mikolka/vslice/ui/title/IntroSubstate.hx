@@ -101,8 +101,7 @@ class IntroSubstate extends MusicBeatSubstate
 		for (i in 0...textArray.length)
 		{
 			#if !LEGACY_PSYCH
-			if (ClientPrefs.data.vibrating)
-				lime.ui.Haptic.vibrate(100, 100);
+			HapticUtil.vibrate(0, Constants.DEFAULT_VIBRATION_DURATION);
 			#end
 
 			var money:Alphabet = new Alphabet(0, 0, textArray[i], true);
