@@ -45,6 +45,7 @@ jobs:
           git init --initial-branch main
           git config --local user.email "actions@github.com"
           git config --local user.name "P-Slice BF"
+          git config --unset-all http.https://github.com/.extraheader
           git remote add origin git@github.com:Psych-Slice/psych-slice.github.io.git
           git add .
           git commit --author="${USERNAME} <${USERID}+$(echo "$USERNAME" | sed 's/ /-/g')@users.noreply.github.com>" -m "Built and Pushed New NDLL's." || {
