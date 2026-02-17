@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Annoying User Happy idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Annoying User Happy Left"
+		},
+		{
+			"offsets": [
+				-12,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Annoying User Happy down"
+		},
+		{
+			"offsets": [
+				-11,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Annoying User Happy Up"
+		},
+		{
+			"offsets": [
+				-35,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Annoying User Happy Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Annoying User Happy",
+	"position": [
+		-120,
+		430
+	],
+	"healthicon": "annoyer-happy",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		230,
+		71
+	],
+	"camera_position": [
+		110,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}

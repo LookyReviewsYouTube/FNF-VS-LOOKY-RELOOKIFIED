@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jimmytalk.png">
+<SubTexture name="jimmytalk shut0000" x="1043" y="0" width="1037" height="1202" frameX="-767" frameY="-184" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="jimmytalk talk0000" x="0" y="0" width="1043" height="1261" frameX="-759" frameY="-132" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="jimmytalk talk0001" x="1043" y="0" width="1037" height="1202" frameX="-767" frameY="-184" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

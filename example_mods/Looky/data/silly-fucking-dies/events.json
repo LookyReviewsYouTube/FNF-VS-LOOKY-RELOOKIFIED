@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				18600,
+				[
+					[
+						"killBf",
+						"0",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.1",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"killer-car"
+					]
+				]
+			]
+		]
+	}
+}

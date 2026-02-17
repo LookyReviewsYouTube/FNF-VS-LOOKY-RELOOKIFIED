@@ -1,0 +1,32 @@
+{
+	"storyName": "stop gooning brooooooo",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "Kawaii",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Kawaii",
+			"bakerexe",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Kawaii"
+}

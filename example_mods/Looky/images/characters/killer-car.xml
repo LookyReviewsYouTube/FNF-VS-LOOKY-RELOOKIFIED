@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="killer-car.png">
+<SubTexture name="killer-car idle0000" x="0" y="0" width="794" height="347" frameX="-3" frameY="-3" frameWidth="800" frameHeight="353" />
+</TextureAtlas>

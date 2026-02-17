@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://lime.openfl.org/project/1.0.4 http://lime.openfl.org/xsd/project-1.0.4.xsd">
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app unless="PROFILE_BUILD || mobile" title="Friday Night Funkin': P-Slice Engine"
+	<app unless="PROFILE_BUILD || mobile" title="Friday Night Funkin' VS Looky: RELOOKIFIED"
 		file="PSliceEngine" packageName="com.mikolka9144.pslice" package="com.mikolka9144.pslice"
 		main="Main" version="3.4.2" company="mikolka9144" />
 	<app if="PROFILE_BUILD" title="P-Slice Engine Profiling build" file="PSliceEngine"

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Hey Girlfriend",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "boyfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah Boyfriend?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "GF_1"
+		},
+		{
+			"expression": "confused",
+			"text": "Who is this blue ass fucking ball infront of me?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "boyfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't fucking know",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "GF_1"
+		},
+		{
+			"expression": "talk",
+			"text": "fuck you",
+			"boxState": "normal",
+			"sound": "Looky",
+			"speed": 0.2,
+			"portrait": "Looky"
+		},
+		{
+			"sound": "boyfriend",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Well... I'm gonna rap battle you rn"
+		},
+		{
+			"sound": "looky",
+			"speed": 0.1,
+			"portrait": "looky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

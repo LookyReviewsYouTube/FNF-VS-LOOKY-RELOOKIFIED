@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Silly V7.png">
+<SubTexture name="Silly V7 idle0000" x="0" y="1137" width="759" height="1063" frameX="-639" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0001" x="2139" y="0" width="759" height="1070" frameX="-639" frameY="-10" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0002" x="1084" y="2200" width="760" height="1056" frameX="-641" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0003" x="790" y="3259" width="760" height="1051" frameX="-641" frameY="-29" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0004" x="2396" y="3259" width="765" height="1026" frameX="-650" frameY="-54" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0005" x="790" y="3259" width="760" height="1051" frameX="-641" frameY="-29" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0006" x="1084" y="2200" width="760" height="1056" frameX="-641" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0007" x="2139" y="0" width="759" height="1070" frameX="-639" frameY="-10" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0008" x="0" y="1137" width="759" height="1063" frameX="-639" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 idle0009" x="0" y="1137" width="759" height="1063" frameX="-639" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 left0000" x="0" y="2200" width="1084" height="1059" frameX="-373" frameY="-21" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 left0001" x="1844" y="2200" width="1060" height="1056" frameX="-331" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 left0002" x="3651" y="0" width="1053" height="1056" frameX="-309" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 left0003" x="3651" y="1056" width="1048" height="1055" frameX="-290" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 left0004" x="3161" y="3259" width="1035" height="1022" frameX="-243" frameY="-58" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 down0000" x="2898" y="1060" width="713" height="794" frameX="-630" frameY="-286" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 down0001" x="2904" y="2200" width="710" height="719" frameX="-582" frameY="-361" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 down0002" x="4704" y="0" width="710" height="679" frameX="-579" frameY="-401" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 down0003" x="0" y="4311" width="777" height="584" frameX="-578" frameY="-496" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 up0000" x="759" y="1137" width="718" height="1063" frameX="-639" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 up0001" x="1424" y="0" width="715" height="1076" frameX="-632" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 up0002" x="711" y="0" width="713" height="1109" frameX="-610" frameY="-141" frameWidth="1920" frameHeight="1250" />
+<SubTexture name="Silly V7 up0003" x="0" y="0" width="711" height="1137" frameX="-593" frameY="-113" frameWidth="1920" frameHeight="1250" />
+<SubTexture name="Silly V7 right0000" x="2898" y="0" width="753" height="1060" frameX="-693" frameY="-20" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 right0001" x="1477" y="1137" width="785" height="1062" frameX="-716" frameY="-18" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 right0002" x="0" y="3259" width="790" height="1052" frameX="-740" frameY="-28" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 right0003" x="3651" y="2111" width="863" height="1053" frameX="-738" frameY="-27" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Silly V7 right0004" x="1550" y="3259" width="846" height="1044" frameX="-814" frameY="-36" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gacha UNTITLED (kill me).png">
+<SubTexture name="Gacha UNTITLED (kill me) down0000" x="2350" y="0" width="604" height="445" frameX="-283" frameY="-470" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) up0000" x="0" y="0" width="457" height="831" frameX="-167" frameY="-85" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0000" x="943" y="831" width="529" height="683" frameX="0" frameY="-232" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0001" x="1821" y="0" width="529" height="682" frameX="-16" frameY="-233" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0002" x="1821" y="0" width="529" height="682" frameX="-29" frameY="-233" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0003" x="444" y="831" width="499" height="685" frameX="-80" frameY="-230" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0004" x="906" y="0" width="482" height="687" frameX="-112" frameY="-228" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0005" x="0" y="831" width="444" height="685" frameX="-162" frameY="-230" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) left0006" x="1388" y="0" width="433" height="686" frameX="-224" frameY="-229" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) right0000" x="1821" y="682" width="489" height="599" frameX="-511" frameY="-319" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) right0001" x="0" y="1516" width="471" height="598" frameX="-488" frameY="-320" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) right0002" x="1746" y="1516" width="442" height="590" frameX="-456" frameY="-327" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) right0003" x="1323" y="1516" width="423" height="591" frameX="-416" frameY="-326" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) right0004" x="471" y="1516" width="426" height="593" frameX="-321" frameY="-324" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) right0005" x="897" y="1516" width="426" height="593" frameX="-226" frameY="-324" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Gacha UNTITLED (kill me) idle0000" x="457" y="0" width="449" height="694" frameX="-295" frameY="-221" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

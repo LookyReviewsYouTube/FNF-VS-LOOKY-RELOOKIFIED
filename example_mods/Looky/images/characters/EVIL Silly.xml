@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EVIL Silly.png">
+<SubTexture name="EVIL Silly down0000" x="0" y="1033" width="502" height="539" frameX="-1218" frameY="-478" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="EVIL Silly idle0000" x="1203" y="0" width="501" height="826" frameX="-1172" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="EVIL Silly left0000" x="690" y="0" width="513" height="829" frameX="-1055" frameY="-251" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="EVIL Silly right0000" x="1704" y="0" width="565" height="800" frameX="-1228" frameY="-280" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="EVIL Silly up0000" x="0" y="0" width="690" height="1033" frameX="-1114" frameY="-47" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

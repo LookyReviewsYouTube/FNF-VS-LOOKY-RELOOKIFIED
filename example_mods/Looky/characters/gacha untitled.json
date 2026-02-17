@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gacha UNTITLED (kill me) down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gacha UNTITLED (kill me) idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gacha UNTITLED (kill me) up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gacha UNTITLED (kill me) left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gacha UNTITLED (kill me) right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Gacha UNTITLED (kill me)",
+	"position": [
+		-370,
+		-120
+	],
+	"healthicon": "silly",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		30,
+		105
+	],
+	"camera_position": [
+		80,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

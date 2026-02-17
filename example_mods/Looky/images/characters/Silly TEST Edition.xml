@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Silly TEST Edition.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="0" width="740" height="1677" frameX="-131" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0001" x="740" y="0" width="734" height="1677" frameX="-137" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0002" x="1474" y="0" width="734" height="1677" frameX="-137" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0003" x="740" y="0" width="734" height="1677" frameX="-137" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0004" x="0" y="0" width="740" height="1677" frameX="-131" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+</TextureAtlas>

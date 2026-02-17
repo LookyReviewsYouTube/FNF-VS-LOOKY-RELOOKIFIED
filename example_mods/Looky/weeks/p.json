@@ -1,0 +1,95 @@
+{
+	"storyName": "freeplay shoitretshjiuortshinjdfsghjn",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bloodsauce",
+			"baker",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Behind you",
+			"alt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"FNF-kid",
+			"silly",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Full-body-amputation",
+			"MrLooky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"identity-crisis",
+			"alt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"diagraphephobia",
+			"Silly",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Subterfuge",
+			"placeholder",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pocoblitz",
+			"baker",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

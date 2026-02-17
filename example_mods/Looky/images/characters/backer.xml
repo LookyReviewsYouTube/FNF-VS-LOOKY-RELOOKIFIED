@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backer.png">
+<SubTexture name="backer idle0000" x="1257" y="0" width="485" height="700" frameX="-223" frameY="-182" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singDOWN0000" x="1954" y="1414" width="413" height="521" frameX="-395" frameY="-377" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singDOWN0001" x="1120" y="1414" width="417" height="550" frameX="-384" frameY="-334" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singDOWN0002" x="1537" y="1414" width="417" height="543" frameX="-384" frameY="-346" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singLEFT0000" x="691" y="0" width="566" height="711" frameX="-173" frameY="-173" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singLEFT0001" x="557" y="1414" width="563" height="664" frameX="-210" frameY="-221" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singLEFT0002" x="0" y="1414" width="557" height="674" frameX="-200" frameY="-210" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singRIGHT0000" x="1742" y="688" width="544" height="682" frameX="-353" frameY="-213" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singRIGHT0001" x="0" y="715" width="411" height="699" frameX="-354" frameY="-199" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singRIGHT0002" x="1095" y="715" width="460" height="696" frameX="-353" frameY="-202" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singUP0000" x="1742" y="0" width="708" height="688" frameX="-147" frameY="-183" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singUP0001" x="411" y="715" width="684" height="699" frameX="-171" frameY="-172" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="backer singUP0002" x="0" y="0" width="691" height="715" frameX="-155" frameY="-156" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

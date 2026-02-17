@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BigRedLooky.png">
+<SubTexture name="BigRedLooky idle0000" x="1683" y="0" width="532" height="532" frameX="-143" frameY="-196" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky idle0001" x="536" y="0" width="541" height="533" frameX="-143" frameY="-153" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky idle0002" x="0" y="1622" width="535" height="532" frameX="-143" frameY="-137" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky idle0003" x="535" y="1622" width="538" height="532" frameX="-143" frameY="-133" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky down0000" x="0" y="0" width="536" height="556" frameX="-143" frameY="-244" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky down0001" x="1165" y="2154" width="537" height="531" frameX="-143" frameY="-234" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky down0002" x="1073" y="1622" width="538" height="532" frameX="-143" frameY="-147" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky down0003" x="1611" y="1622" width="538" height="532" frameX="-143" frameY="-133" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky left0000" x="1077" y="0" width="606" height="533" frameX="-2" frameY="-124" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky left0001" x="0" y="556" width="603" height="533" frameX="-29" frameY="-124" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky left0002" x="603" y="556" width="584" height="533" frameX="-63" frameY="-124" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky left0003" x="2215" y="0" width="576" height="532" frameX="-84" frameY="-125" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky right0000" x="0" y="1089" width="566" height="533" frameX="-227" frameY="-126" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky right0001" x="0" y="2154" width="584" height="532" frameX="-174" frameY="-127" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky right0002" x="584" y="2154" width="581" height="532" frameX="-157" frameY="-126" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky right0003" x="566" y="1089" width="577" height="533" frameX="-146" frameY="-126" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky up0000" x="1143" y="1089" width="533" height="533" frameX="-151" frameY="-43" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky up0001" x="2215" y="532" width="533" height="532" frameX="-151" frameY="-90" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky up0002" x="2215" y="1064" width="534" height="532" frameX="-150" frameY="-114" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky up0003" x="2215" y="1596" width="534" height="532" frameX="-150" frameY="-120" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

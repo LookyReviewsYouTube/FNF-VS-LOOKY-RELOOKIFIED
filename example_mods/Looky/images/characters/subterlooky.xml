@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="subterlooky.png">
+<SubTexture name="subterlooky down0000" x="543" y="964" width="593" height="772" frameX="0" frameY="0" frameWidth="593" frameHeight="772" />
+<SubTexture name="subterlooky idle0000" x="0" y="0" width="598" height="964" frameX="0" frameY="0" frameWidth="598" frameHeight="964" />
+<SubTexture name="subterlooky left0000" x="0" y="964" width="543" height="886" frameX="0" frameY="0" frameWidth="543" frameHeight="886" />
+<SubTexture name="subterlooky right0000" x="1228" y="0" width="840" height="921" frameX="0" frameY="0" frameWidth="840" frameHeight="921" />
+<SubTexture name="subterlooky up0000" x="598" y="0" width="630" height="929" frameX="0" frameY="0" frameWidth="630" frameHeight="929" />
+</TextureAtlas>

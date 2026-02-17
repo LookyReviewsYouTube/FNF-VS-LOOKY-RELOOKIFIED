@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Silly V7 idle"
+		},
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Silly V7 left"
+		},
+		{
+			"offsets": [
+				0,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Silly V7 down"
+		},
+		{
+			"offsets": [
+				-150,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Silly V7 right"
+		},
+		{
+			"offsets": [
+				40,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Silly V7 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Silly V7",
+	"position": [
+		-950,
+		-100
+	],
+	"healthicon": "silly",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		30,
+		105
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

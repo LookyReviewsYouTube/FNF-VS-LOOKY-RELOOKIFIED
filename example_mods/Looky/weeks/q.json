@@ -1,0 +1,32 @@
+{
+	"storyName": "h.s robotics database - w23a54 - soulcage",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "dark",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Broken",
+			"soulcage",
+			[
+				0,
+				0,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Soulcage"
+}

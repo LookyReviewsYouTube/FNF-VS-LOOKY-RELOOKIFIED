@@ -1,0 +1,50 @@
+{
+	"storyName": "please stop pronouncing my name incorrectly :(",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "cham",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"wife-whenever",
+			"cham",
+			[
+				0,
+				255,
+				120
+			]
+		],
+		[
+			"Lore",
+			"lad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sacrifice.cham",
+			"cham",
+			[
+				0,
+				255,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Cham"
+}

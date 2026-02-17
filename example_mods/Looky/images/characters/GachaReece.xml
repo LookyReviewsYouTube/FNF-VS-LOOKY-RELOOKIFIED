@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GachaReece.png">
+<SubTexture name="GachaReece down0000" x="193" y="261" width="172" height="209" frameX="-171" frameY="-152" frameWidth="577" frameHeight="433" />
+<SubTexture name="GachaReece idle0000" x="351" y="0" width="178" height="258" frameX="-187" frameY="-100" frameWidth="577" frameHeight="433" />
+<SubTexture name="GachaReece left0000" x="0" y="261" width="193" height="258" frameX="-177" frameY="-101" frameWidth="577" frameHeight="433" />
+<SubTexture name="GachaReece right0000" x="175" y="0" width="176" height="259" frameX="-211" frameY="-99" frameWidth="577" frameHeight="433" />
+<SubTexture name="GachaReece up0000" x="0" y="0" width="175" height="261" frameX="-184" frameY="-97" frameWidth="577" frameHeight="433" />
+</TextureAtlas>

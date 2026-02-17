@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mcdonalds Guy.png">
+<SubTexture name="Mcdonalds Guy up0000" x="1368" y="1009" width="1406" height="1002" frameX="-280" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy up0001" x="2794" y="0" width="1391" height="1001" frameX="-274" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy right0000" x="0" y="0" width="1368" height="1009" frameX="-276" frameY="-36" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy right0001" x="1371" y="2012" width="1150" height="985" frameX="-489" frameY="-59" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy down0000" x="2521" y="2012" width="1363" height="957" frameX="-279" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy down0001" x="1371" y="3000" width="812" height="929" frameX="-590" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy down0002" x="0" y="2012" width="1371" height="988" frameX="-275" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy idle0000" x="2794" y="1001" width="1373" height="997" frameX="-274" frameY="-46" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy idle0001" x="0" y="3000" width="1371" height="931" frameX="-275" frameY="-112" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy left0000" x="1368" y="0" width="1426" height="1007" frameX="-92" frameY="-43" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Mcdonalds Guy left0001" x="0" y="1009" width="1368" height="1003" frameX="-233" frameY="-44" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

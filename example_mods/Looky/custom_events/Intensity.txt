@@ -1,0 +1,4 @@
+Works like Add Camera Zoom,
+except it's constant, meaning
+that it's triggered at the same time
+as default camera zooms.

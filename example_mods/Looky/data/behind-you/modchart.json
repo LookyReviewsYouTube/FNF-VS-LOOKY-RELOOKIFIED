@@ -1,0 +1,70 @@
+{
+	"events": [
+		[
+			"ease",
+			[
+				0,
+				"10.36",
+				"cubeInOut",
+				"1,Mid"
+			],
+			[
+				false,
+				1,
+				1
+			]
+		],
+		[
+			"ease",
+			[
+				39.25,
+				"5",
+				"cubeInOut",
+				"1,shake"
+			],
+			[
+				true,
+				20,
+				1
+			]
+		],
+		[
+			"ease",
+			[
+				39.5,
+				"5",
+				"cubeInOut",
+				"1,jump again"
+			],
+			[
+				true,
+				20,
+				1
+			]
+		]
+	],
+	"modifiers": [
+		[
+			"Mid",
+			"MiddleModifier",
+			"",
+			-1,
+			-1
+		],
+		[
+			"shake",
+			"ShakyNotesModifier",
+			"",
+			-1,
+			-1
+		],
+		[
+			"jump again",
+			"BumpyModifier",
+			"",
+			-1,
+			-1
+		]
+	],
+	"playfields": 1
+}

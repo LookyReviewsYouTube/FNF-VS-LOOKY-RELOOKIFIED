@@ -1,0 +1,5 @@
+Sets the Default Zoom level
+Put in a number into value1; but don't put 0 unless you wanna see the
+stage sink into the abyss and then your game crash.
+if you leave value1 empty then it'll set the default zoom level back
+to the original stage value.

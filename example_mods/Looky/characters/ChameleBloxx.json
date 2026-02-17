@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ChameleBloxx idle0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ChameleBloxx left0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ChameleBloxx down0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ChameleBloxx up0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ChameleBloxx right0000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ChameleBloxx",
+	"position": [
+		-400,
+		140
+	],
+	"healthicon": "cham",
+	"flip_x": true,
+	"healthbar_colors": [
+		99,
+		214,
+		123
+	],
+	"camera_position": [
+		-30,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

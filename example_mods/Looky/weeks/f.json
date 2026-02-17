@@ -1,0 +1,68 @@
+{
+	"storyName": "just freeplay songs",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"control",
+			"ogexe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Shinto",
+			"soulcage",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Shitno",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"set-me-free",
+			"lookygod",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"free-4-me",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "mcoleman551"
+}

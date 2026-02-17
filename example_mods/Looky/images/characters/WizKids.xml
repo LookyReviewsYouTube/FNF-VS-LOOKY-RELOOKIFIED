@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wizkids.png">
+<SubTexture name="wizkids idle0000" x="585" y="754" width="635" height="564" frameX="-133" frameY="-93" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids idle0001" x="1369" y="0" width="600" height="500" frameX="-133" frameY="-129" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids idle0002" x="1288" y="1358" width="584" height="480" frameX="-133" frameY="-149" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids idle0003" x="0" y="1847" width="576" height="471" frameX="-133" frameY="-158" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids down0000" x="700" y="0" width="669" height="672" frameX="-77" frameY="-77" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids down0001" x="1369" y="500" width="489" height="494" frameX="-176" frameY="-157" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids down0002" x="1865" y="1847" width="468" height="424" frameX="-184" frameY="-197" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids down0003" x="2607" y="419" width="459" height="412" frameX="-187" frameY="-204" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids left0000" x="1106" y="1847" width="759" height="428" frameX="-38" frameY="-222" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids left0001" x="0" y="2318" width="671" height="408" frameX="-101" frameY="-211" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids left0002" x="2607" y="0" width="554" height="419" frameX="-156" frameY="-212" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids left0003" x="1969" y="1424" width="522" height="422" frameX="-170" frameY="-211" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids right0000" x="0" y="1358" width="736" height="489" frameX="-35" frameY="-127" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids right0001" x="1969" y="0" width="638" height="477" frameX="-97" frameY="-142" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids right0002" x="1969" y="952" width="564" height="472" frameX="-129" frameY="-140" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids right0003" x="736" y="1358" width="552" height="487" frameX="-131" frameY="-129" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids up0000" x="0" y="0" width="700" height="754" frameX="-71" frameY="-2" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids up0001" x="0" y="754" width="585" height="604" frameX="-132" frameY="-58" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids up0002" x="1969" y="477" width="542" height="475" frameX="-156" frameY="-139" frameWidth="800" frameHeight="800" />
+<SubTexture name="wizkids up0003" x="576" y="1847" width="530" height="461" frameX="-162" frameY="-147" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

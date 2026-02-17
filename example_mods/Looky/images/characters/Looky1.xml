@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Looky1.png">
+<SubTexture name="Looky Looky0000" x="0" y="0" width="659" height="638" frameX="-69" frameY="-124" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Looky Looky0001" x="659" y="0" width="659" height="538" frameX="-69" frameY="-224" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

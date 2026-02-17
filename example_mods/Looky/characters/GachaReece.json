@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GachaReece idle0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GachaReece left0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GachaReece down0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GachaReece up0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GachaReece right0000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GachaReece",
+	"position": [
+		-190,
+		220
+	],
+	"healthicon": "gachareece",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		111,
+		94
+	],
+	"camera_position": [
+		-320,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

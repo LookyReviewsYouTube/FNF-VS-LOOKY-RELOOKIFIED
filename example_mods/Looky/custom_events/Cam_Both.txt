@@ -1,0 +1,6 @@
+Will show both chars, putting the cam between them
+Input values are optional
+
+v1: Amount of sections it should last (default 1)
+
+v2: Custom defaultCamZoom while active

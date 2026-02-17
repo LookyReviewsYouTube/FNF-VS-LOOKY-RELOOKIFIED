@@ -1,0 +1,2 @@
+Bops the camera every time the characters bop their head
+V1: How much the camera zoom's

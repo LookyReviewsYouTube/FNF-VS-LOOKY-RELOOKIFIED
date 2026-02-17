@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lookleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lookdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lookup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lookright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "lookdancer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "lookdancel",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "cute",
+			"fps": 24,
+			"name": "lookcute",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/looky",
+	"position": [
+		-250,
+		-200
+	],
+	"healthicon": "sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		72,
+		204
+	],
+	"camera_position": [
+		180,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

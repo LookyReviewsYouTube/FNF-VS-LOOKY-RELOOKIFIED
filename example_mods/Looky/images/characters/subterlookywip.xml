@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="subterlookywip.png">
+<SubTexture name="subterlookywip down0000" x="0" y="0" width="623" height="860" frameX="0" frameY="0" frameWidth="623" frameHeight="860" />
+<SubTexture name="subterlookywip left0000" x="746" y="860" width="525" height="751" frameX="0" frameY="0" frameWidth="525" frameHeight="751" />
+<SubTexture name="subterlookywip up0000" x="623" y="0" width="618" height="831" frameX="0" frameY="0" frameWidth="618" frameHeight="831" />
+<SubTexture name="subterlookywip right0000" x="0" y="860" width="746" height="764" frameX="0" frameY="0" frameWidth="746" frameHeight="764" />
+<SubTexture name="subterlookywip idle0000" x="1241" y="0" width="633" height="794" frameX="0" frameY="0" frameWidth="633" frameHeight="794" />
+</TextureAtlas>

@@ -1,0 +1,41 @@
+{
+    "modifiers": [
+        [
+            "bfDarken",
+            "darkenMod",
+            "player",
+            -1,
+            -1
+        ],
+        [
+            "bfStrums",
+            "strumsMod",
+            "player",
+            -1,
+            -1
+        ],
+        [
+            "bfStrumTipsy",
+            "tipsyStrum",
+            "player",
+            -1,
+            -1
+        ],
+        [
+            "opWiggle",
+            "wiggle",
+            "opponent",
+            -1,
+            -1
+        ],
+        [
+            "opParra",
+            "parrabolex",
+            "opponent",
+            -1,
+            -1
+        ]
+    ],
+    "events": [],
+    "playfields": 1
+}
