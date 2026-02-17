@@ -14,13 +14,13 @@
 	],
 	"objects": [
 		{
-			"x": -297,
-			"y": -198,
+			"x": -332,
+			"y": -218,
 			"scale": [
 				1,
 				1
 			],
-			"image": "void",
+			"image": "void_sunset",
 			"flipX": false,
 			"filters": 3,
 			"color": "FFFFFF",
@@ -50,15 +50,15 @@
 		0
 	],
 	"defaultZoom": 0.9,
+	"camera_speed": 1,
+	"directory": "",
 	"opponent": [
 		220,
 		90
 	],
-	"directory": "",
-	"camera_speed": 1,
-	"hide_girlfriend": true,
 	"camera_opponent": [
 		0,
 		0
-	]
+	],
+	"hide_girlfriend": true
 }
