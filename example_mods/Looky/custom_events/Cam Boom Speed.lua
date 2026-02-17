@@ -13,7 +13,7 @@ end
 function onBeatHit()
 
 	if curBeat % boomspeed == 0 then
-		triggerEvent("Add Camera Zoom",0.02*bam,0.05*bam)
+		triggerEvent("Add Camera Zoom",0.015*bam,0.03*bam)
 	end
 
 end
