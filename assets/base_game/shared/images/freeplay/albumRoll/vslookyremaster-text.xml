@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="vslookyremaster-text.png">
-	<!-- Created using the Spritesheet and XML generator -->
-	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="Untitled342_202602172317550000" x="0" y="0" width="952" height="948" frameX="-155" frameY="-190" frameWidth="1280" frameHeight="1280"/>
-</TextureAtlas>
