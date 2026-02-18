@@ -1,6 +1,6 @@
 {
 	"storyName": "Get out you're not supposed to be here unless you're modding",
-	"difficulties": "Hard",
+	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
@@ -14,7 +14,7 @@
 	"songs": [
 		[
 			"THISSUCKSASS",
-			"lastdaym",
+			"normalkooky",
 			[
 				146,
 				113,
@@ -23,7 +23,7 @@
 		],
 		[
 			"Terminated",
-			"normalkooky",
+			"sponge",
 			[
 				146,
 				113,
