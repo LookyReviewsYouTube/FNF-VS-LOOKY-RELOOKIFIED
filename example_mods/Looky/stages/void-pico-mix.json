@@ -1,8 +1,8 @@
 {
 	"_editorMeta": {
 		"boyfriend": "pico-player",
-		"gf": "nene",
-		"dad": "Silly V2"
+		"dad": "Silly V2",
+		"gf": "nene"
 	},
 	"girlfriend": [
 		400,
@@ -68,7 +68,7 @@
 			"type": "sprite"
 		}
 	],
-	"defaultZoom": 0.4,
+	"defaultZoom": 0.85,
 	"directory": "",
 	"opponent": [
 		50,
