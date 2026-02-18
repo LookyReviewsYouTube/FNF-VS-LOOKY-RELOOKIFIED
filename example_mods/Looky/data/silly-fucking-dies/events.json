@@ -1,26 +1,13 @@
 {
-	"song": {
-		"events": [
+	"events": [
+		[
+			18600,
 			[
-				18600,
-				[
-					[
-						"killBf",
-						"0",
-						""
-					],
-					[
-						"Flash Camera",
-						"0.1",
-						""
-					],
-					[
-						"Change Character",
-						"Dad",
-						"killer-car"
-					]
-				]
+				["killBf", "0", ""],
+				["Flash Camera", "0.1", ""],
+				["Change Character", "Dad", "killer-car"]
 			]
 		]
-	}
+	],
+	"format": "psych_v1"
 }

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Silly Joke.png">
+<SubTexture name="Silly Joke down0000" x="1485" y="651" width="594" height="410" frameX="-90" frameY="-355" frameWidth="760" frameHeight="850" />
+<SubTexture name="Silly Joke idle0000" x="493" y="0" width="992" height="740" frameX="-161" frameY="-37" frameWidth="1333" frameHeight="850" />
+<SubTexture name="Silly Joke left0000" x="1485" y="0" width="1391" height="651" frameX="-42" frameY="0" frameWidth="1446" frameHeight="718" />
+<SubTexture name="Silly Joke right0000" x="0" y="0" width="493" height="744" frameX="-96" frameY="-63" frameWidth="760" frameHeight="850" />
+<SubTexture name="Silly Joke up0000" x="0" y="744" width="727" height="700" frameX="-25" frameY="-48" frameWidth="837" frameHeight="797" />
+</TextureAtlas>

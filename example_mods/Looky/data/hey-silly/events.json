@@ -1,0 +1,17 @@
+{
+	"events": [
+		[
+			89655.172413793,
+			[
+				["Cinematics_With_HUD", "1", "90"]
+			]
+		],
+		[
+			111724.137931034,
+			[
+				["Cinematics_With_HUD", "1", "0"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
