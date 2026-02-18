@@ -1,19 +1,27 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [0, 0],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
 			"indices": []
+		},
+		{
+			"offsets": [196, 39],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		},
 		{
 			"loop": false,
 			"offsets": [0, 0],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "right",
 			"indices": []
 		},
 		{
@@ -25,20 +33,12 @@
 			"indices": []
 		},
 		{
-			"loop": true,
-			"offsets": [0, 0],
-			"anim": "idle",
-			"fps": 8,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"offsets": [196, 39],
+			"offsets": [87, 48],
 			"indices": [],
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "singDOWN",
 			"loop": false,
-			"name": "left"
+			"name": "down"
 		}
 	],
 	"vocals_file": "",
