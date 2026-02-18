@@ -1,3 +1,0 @@
-value 1: turn on/off the glitches
-1 - turn on
-0 - turn off
