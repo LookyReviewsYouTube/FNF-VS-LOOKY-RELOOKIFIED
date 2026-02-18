@@ -1,0 +1,78 @@
+{
+	"_editorMeta": {
+		"boyfriend": "pico-player",
+		"gf": "nene",
+		"dad": "Silly V2"
+	},
+	"girlfriend": [
+		400,
+		-45
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		910,
+		90
+	],
+	"objects": [
+		{
+			"x": -397,
+			"y": -288,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "Untitled341_20260218173521",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -422,
+			"y": -353,
+			"scale": [
+				1.3,
+				1.3
+			],
+			"image": "Untitled341_20260218173537",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"defaultZoom": 0.4,
+	"directory": "",
+	"opponent": [
+		50,
+		-10
+	],
+	"hide_girlfriend": false
+}
