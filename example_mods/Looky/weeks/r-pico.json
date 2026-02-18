@@ -1,0 +1,17 @@
+{
+	"songs": [
+		["detection-(pico-mix)", "Silly", [160, 209, 255]]
+	],
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "christmas",
+	"storyName": "Week Silly but Pico is here",
+	"weekBefore": "week4",
+	"weekName": "Week Silly",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

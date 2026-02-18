@@ -4,19 +4,19 @@
 		0
 	],
 	"_editorMeta": {
-		"boyfriend": "bf",
-		"gf": "gf",
-		"dad": "silly test"
+		"boyfriend": "Michael V10",
+		"dad": "catte",
+		"gf": "Cherry"
 	},
-	"girlfriend": [
-		520,
-		130
-	],
-	"isPixelStage": false,
 	"boyfriend": [
 		1100,
 		100
 	],
+	"girlfriend": [
+		542,
+		51
+	],
+	"isPixelStage": false,
 	"objects": [
 		{
 			"x": -467,
@@ -55,15 +55,15 @@
 		0
 	],
 	"defaultZoom": 0.9,
-	"camera_speed": 1,
-	"directory": "",
 	"opponent": [
 		265,
 		90
 	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
 	"camera_opponent": [
 		0,
 		0
-	],
-	"hide_girlfriend": true
+	]
 }
