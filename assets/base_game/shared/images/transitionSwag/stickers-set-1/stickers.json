@@ -2,16 +2,15 @@
   "name": "stickers-set-1",
   "artist": "PhantomArcade3K",
   "stickers": {
-    "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
-    "dad": ["dadSticker1", "dadSticker2", "dadSticker3"],
-    "pico": ["picoSticker1", "picoSticker2", "picoSticker3"],
-    "mom": ["momSticker1", "momSticker2", "momSticker3"],
-    "monster": ["monsterSticker1", "monsterSticker2", "monsterSticker3"],
-    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"]
+    "bf": ["cyanlooky", "looky"],
+    "dad": ["purplelooky", "pinklooky"],
+    "pico": ["lookybuddy", "redlooky"],
+    "mom": ["yellowlooky", "orangelooky"],
+    "gf": ["greenlooky", "graylooky"]
   },
   "stickerPacks": {
     "tutorial": ["bf", "gf"],
     "parents": ["dad", "mom"],
-    "all": ["bf", "gf", "dad", "mom", "monster", "pico"]
+    "all": ["bf", "gf", "dad", "mom", "pico"]
   }
 }
