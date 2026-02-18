@@ -3612,9 +3612,9 @@
 		"sections": 45,
 		"validScore": true,
 		"stage": "void_night",
-		"arrowSkin": "Arrows",
+		"arrowSkin": "",
 		"needsVoices": true,
 		"bpm": 150,
-		"speed": 1.7
+		"speed": 2.5
 	}
 }

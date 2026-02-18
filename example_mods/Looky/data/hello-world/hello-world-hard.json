@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "nightbf",
-		"gfVersion": "nightgf",
-		"player2": "nighthex",
+		"player1": "bf",
+		"gfVersion": "fatherless",
+		"player2": "silly test",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -3611,10 +3611,10 @@
 		"song": "Hello-World",
 		"sections": 45,
 		"validScore": true,
-		"stage": "Night",
-		"arrowSkin": "Arrows",
+		"stage": "void_night",
+		"arrowSkin": "",
 		"needsVoices": true,
 		"bpm": 150,
-		"speed": 1.7
+		"speed": 2.5
 	}
 }
