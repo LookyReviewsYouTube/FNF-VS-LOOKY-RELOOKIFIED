@@ -6,12 +6,12 @@
 	<!-- _________________________ Application Settings _________________________ -->
 
 	<app unless="PROFILE_BUILD || mobile" title="Friday Night Funkin' VS Looky: RELOOKIFIED"
-		file="PSliceEngine" packageName="com.mikolka9144.pslice" package="com.mikolka9144.pslice"
+		file="LookyEngineV2" packageName="com.mikolka9144.pslice" package="com.mikolka9144.pslice"
 		main="Main" version="3.4.2" company="mikolka9144" />
 	<app if="PROFILE_BUILD" title="P-Slice Engine Profiling build" file="PSliceEngine"
 		packageName="com.mikolka9144.testPslice" package="com.mikolka9144.testPslice" main="Main"
 		version="3.4.2" company="mikolka9144" />
-	<app if="mobile" unless="PROFILE_BUILD" title="P-Slice Engine" file="PSliceEngine"
+	<app if="mobile" unless="PROFILE_BUILD" title="LookyEngine: MOBILE" file="LookyEngineV2"
 		packageName="com.mikolka9144.pslice" package="com.mikolka9144.pslice" main="Main"
 		version="3.4.2" company="mikolka9144" />
 	<!--Switch
