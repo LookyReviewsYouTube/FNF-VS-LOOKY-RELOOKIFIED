@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="silly test.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="1601" y="1677" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0001" x="889" y="1677" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0002" x="889" y="0" width="712" height="1677" frameX="-134" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0003" x="889" y="1677" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0004" x="1601" y="1677" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0005" x="2300" y="0" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0006" x="2999" y="0" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0007" x="2300" y="1677" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0008" x="1601" y="0" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0009" x="2300" y="1677" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0010" x="2999" y="0" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="idle0011" x="2300" y="0" width="699" height="1677" frameX="-147" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="up0000" x="0" y="0" width="889" height="1677" frameX="-11" frameY="-190" frameWidth="1000" frameHeight="2000"/>
+	<SubTexture name="up0001" x="0" y="1677" width="862" height="1694" frameX="-11" frameY="-149" frameWidth="1000" frameHeight="2000"/>
+</TextureAtlas>

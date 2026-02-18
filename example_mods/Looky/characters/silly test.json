@@ -20,17 +20,17 @@
 			"offsets": [0, 0],
 			"indices": [],
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "singRIGHT",
 			"loop": false,
-			"name": "BF NOTE UP0"
+			"name": "BF NOTE RIGHT0"
 		},
 		{
 			"offsets": [0, 0],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singUP",
 			"loop": false,
-			"name": "BF NOTE RIGHT0"
+			"name": "up"
 		},
 		{
 			"offsets": [0, 0],
@@ -43,12 +43,12 @@
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/silly animation test with color",
-	"position": [-280, -620],
+	"image": "characters/silly test",
+	"position": [-270, -600],
 	"healthicon": "silly",
 	"flip_x": false,
-	"healthbar_colors": [0, 30, 105],
-	"camera_position": [90, 560],
+	"healthbar_colors": [36, 53, 99],
+	"camera_position": [110, 450],
 	"sing_duration": 4,
 	"scale": 0.45,
 	"_editor_isPlayer": false
