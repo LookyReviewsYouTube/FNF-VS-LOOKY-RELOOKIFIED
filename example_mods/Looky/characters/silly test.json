@@ -3,7 +3,39 @@
 		{
 			"offsets": [0, 0],
 			"indices": [],
-			"fps": 5,
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 8,
 			"anim": "idle",
 			"loop": true,
 			"name": "idle"
@@ -11,13 +43,13 @@
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/Silly TEST EDITION",
-	"position": [-270, -640],
-	"healthicon": "face",
+	"image": "characters/silly animation test with color",
+	"position": [-280, -620],
+	"healthicon": "silly",
 	"flip_x": false,
-	"healthbar_colors": [161, 161, 161],
-	"camera_position": [60, 490],
+	"healthbar_colors": [0, 30, 105],
+	"camera_position": [90, 560],
 	"sing_duration": 4,
-	"scale": 0.5,
+	"scale": 0.45,
 	"_editor_isPlayer": false
 }
