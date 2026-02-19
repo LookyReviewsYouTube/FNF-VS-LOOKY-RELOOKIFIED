@@ -1,8 +1,8 @@
 {
 	"_editorMeta": {
 		"boyfriend": "Silly V2 Playable",
-		"gf": "fatherless",
-		"dad": "Chameleon Trix"
+		"dad": "Chameleon Trix",
+		"gf": "fatherless"
 	},
 	"girlfriend": [
 		400,
@@ -46,7 +46,7 @@
 			"type": "boyfriend"
 		}
 	],
-	"defaultZoom": 0.4,
+	"defaultZoom": 0.9,
 	"directory": "",
 	"opponent": [
 		50,
