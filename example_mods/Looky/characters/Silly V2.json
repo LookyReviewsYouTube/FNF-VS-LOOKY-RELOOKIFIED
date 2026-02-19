@@ -1,53 +1,53 @@
 {
 	"animations": [
 		{
-			"offsets": [-1, 0],
 			"loop": true,
-			"fps": 8,
+			"offsets": [-1, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"loop": false,
-			"offsets": [16, 9],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
+			"fps": 8,
+			"name": "idle",
 			"indices": []
 		},
 		{
-			"offsets": [0, 0],
+			"offsets": [-4, -1],
 			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [6, -6],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [16, -2],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [40, -10],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
+			"loop": false,
 			"name": "right"
-		},
-		{
-			"offsets": [0, 10],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up"
-		},
-		{
-			"loop": false,
-			"offsets": [16, -2],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/EVIL Silly V2",
+	"image": "characters/Silly V3",
 	"position": [-510, -640],
-	"healthicon": "evilsilly",
+	"healthicon": "silly",
 	"flip_x": false,
-	"healthbar_colors": [99, 36, 38],
+	"healthbar_colors": [36, 53, 99],
 	"camera_position": [450, 530],
 	"sing_duration": 4,
 	"scale": 0.45,

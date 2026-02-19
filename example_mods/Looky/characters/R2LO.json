@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [5, 37],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "joint pose up"
+		},
+		{
+			"offsets": [-10, -51],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "joint pose down"
+		},
+		{
+			"offsets": [-7, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bf HEY!!"
+		},
+		{
+			"offsets": [3, 27],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "joint left miss"
+		},
+		{
+			"offsets": [-18, 36],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "joint right miss"
+		},
+		{
+			"offsets": [-5, -19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "joint down miss"
+		},
+		{
+			"offsets": [-36, 37],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "joint up miss"
+		},
+		{
+			"offsets": [-4, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "bf shaking"
+		},
+		{
+			"offsets": [-9, 8],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "joint pose left"
+		},
+		{
+			"offsets": [33, -3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "joint pose right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/R2lucy2",
+	"position": [0, 350],
+	"healthicon": "R2",
+	"flip_x": true,
+	"healthbar_colors": [0, 2, 205],
+	"camera_position": [40, 10],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
