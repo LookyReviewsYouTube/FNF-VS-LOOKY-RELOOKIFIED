@@ -1,0 +1,56 @@
+{
+	"_editorMeta": {
+		"boyfriend": "Silly V2 Playable",
+		"gf": "fatherless",
+		"dad": "Chameleon Trix"
+	},
+	"girlfriend": [
+		400,
+		-45
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		870,
+		30
+	],
+	"objects": [
+		{
+			"x": -989,
+			"y": -296,
+			"scale": [
+				2,
+				2
+			],
+			"image": "redsrealm",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.4,
+	"directory": "",
+	"opponent": [
+		50,
+		30
+	],
+	"hide_girlfriend": true
+}
