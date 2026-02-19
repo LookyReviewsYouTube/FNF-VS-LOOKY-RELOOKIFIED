@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-1, 0],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [16, 9],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [0, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [16, -2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/EVIL Silly V2",
+	"position": [-510, -640],
+	"healthicon": "evilsilly",
+	"flip_x": false,
+	"healthbar_colors": [99, 36, 38],
+	"camera_position": [450, 530],
+	"sing_duration": 4,
+	"scale": 0.45,
+	"_editor_isPlayer": false
+}
