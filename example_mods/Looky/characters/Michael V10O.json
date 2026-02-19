@@ -10,23 +10,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-8, -3],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "joint pose left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-43, 7],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "joint pose right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-18, -44],
+			"offsets": [-28, -44],
 			"anim": "singDOWN",
 			"fps": 24,
 			"name": "joint pose down",
@@ -34,7 +18,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-48, -17],
+			"offsets": [42, -8],
 			"anim": "singUP",
 			"fps": 24,
 			"name": "joint pose up",
@@ -42,7 +26,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-29, -52],
+			"offsets": [-9, -52],
 			"anim": "singDOWN-alt",
 			"fps": 24,
 			"name": "bf down 1",
@@ -50,23 +34,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-1, -4],
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "bf left 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-43, 4],
-			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "bf right 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-44, -11],
+			"offsets": [46, -11],
 			"anim": "singUP-alt",
 			"fps": 24,
 			"name": "bf up 1",
@@ -74,7 +42,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-20, -43],
+			"offsets": [-30, -43],
 			"anim": "singDOWN-alt2",
 			"fps": 24,
 			"name": "bf down 2",
@@ -82,15 +50,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [2, -2],
-			"anim": "singLEFT-alt2",
-			"fps": 24,
-			"name": "bf left 2",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-42, -15],
+			"offsets": [48, -15],
 			"anim": "singUP-alt2",
 			"fps": 24,
 			"name": "bf up 2",
@@ -98,15 +58,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-40, 7],
-			"anim": "singRIGHT-alt2",
-			"fps": 24,
-			"name": "bf right 2",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-15, -49],
+			"offsets": [-25, -49],
 			"anim": "singDOWNmiss",
 			"fps": 24,
 			"name": "joint down miss0",
@@ -114,7 +66,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [7, -3],
+			"offsets": [-23, -3],
 			"anim": "singLEFTmiss",
 			"fps": 24,
 			"name": "joint left miss0",
@@ -122,7 +74,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-39, -15],
+			"offsets": [51, -15],
 			"anim": "singUPmiss",
 			"fps": 24,
 			"name": "joint up miss0",
@@ -130,7 +82,7 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-26, 6],
+			"offsets": [14, 6],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
 			"name": "joint right miss0",
@@ -138,19 +90,67 @@
 		},
 		{
 			"loop": false,
-			"offsets": [140, 7],
+			"offsets": [10, 7],
 			"anim": "Hey",
 			"fps": 24,
 			"name": "bf HEY!!0",
 			"indices": []
 		},
 		{
-			"offsets": [-10, 60],
+			"offsets": [10, 60],
 			"indices": [],
 			"fps": 24,
 			"anim": "Cheer",
 			"loop": false,
 			"name": "Boyfriend YEAH cheer"
+		},
+		{
+			"offsets": [16, 3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "joint pose right"
+		},
+		{
+			"offsets": [-19, -3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "joint pose left"
+		},
+		{
+			"offsets": [16, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "bf right 1"
+		},
+		{
+			"offsets": [-20, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "bf left 1"
+		},
+		{
+			"offsets": [15, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt2",
+			"loop": false,
+			"name": "bf right 2"
+		},
+		{
+			"offsets": [-25, -1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt2",
+			"loop": false,
+			"name": "bf left 2"
 		}
 	],
 	"vocals_file": "",
@@ -163,5 +163,5 @@
 	"camera_position": [80, -30],
 	"sing_duration": 4,
 	"scale": 1,
-	"_editor_isPlayer": true
+	"_editor_isPlayer": false
 }
