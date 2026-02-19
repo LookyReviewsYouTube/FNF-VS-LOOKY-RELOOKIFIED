@@ -1,54 +1,54 @@
 {
 	"animations": [
 		{
+			"offsets": [-1, 0],
 			"loop": true,
-			"offsets": [0, 0],
-			"anim": "idle",
 			"fps": 8,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"offsets": [196, 39],
 			"loop": false,
-			"fps": 24,
+			"offsets": [16, 9],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [0, 0],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"offsets": [87, 48],
 			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN",
+			"name": "right"
+		},
+		{
+			"offsets": [0, 10],
 			"loop": false,
-			"name": "down"
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [16, -2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/silly test",
-	"position": [-270, -600],
+	"image": "characters/Silly V3",
+	"position": [-510, -640],
 	"healthicon": "silly",
 	"flip_x": false,
 	"healthbar_colors": [36, 53, 99],
-	"camera_position": [110, 450],
+	"camera_position": [-180, -90],
 	"sing_duration": 4,
 	"scale": 0.45,
 	"_editor_isPlayer": false
