@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-1, 0],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [0, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [16, -2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [16, 9],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Silly V3",
+	"position": [-510, -640],
+	"healthicon": "silly",
+	"flip_x": false,
+	"healthbar_colors": [36, 53, 99],
+	"camera_position": [-500, 530],
+	"sing_duration": 4,
+	"scale": 0.45,
+	"_editor_isPlayer": true
+}
