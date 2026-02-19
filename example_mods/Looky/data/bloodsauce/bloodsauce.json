@@ -1,6 +1,6 @@
 {
 	"sectionLengths": [],
-	"player1": "Silly V2",
+	"player1": "Silly V2 Playable",
 	"gfVersion": "fatherless",
 	"player2": "Chameleon Trix",
 	"notes": [
@@ -2263,7 +2263,7 @@
 	"needsVoices": true,
 	"sections": 0,
 	"validScore": true,
-	"stage": "stage",
+	"stage": "redsrealm",
 	"format": "psych_v1_convert",
 	"speed": 3,
 	"bpm": 167,
