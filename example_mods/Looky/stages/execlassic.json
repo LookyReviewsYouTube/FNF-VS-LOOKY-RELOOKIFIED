@@ -1,0 +1,247 @@
+{
+	"objects": [
+		{
+			"x": -1602,
+			"y": -1279,
+			"scale": [
+				1.4,
+				1.4
+			],
+			"image": "SS_sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite4",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1002,
+			"y": -519,
+			"scale": [
+				1.1,
+				1.1
+			],
+			"image": "SS_castle",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite8",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -737,
+			"y": -479,
+			"scale": [
+				1,
+				1
+			],
+			"image": "SS_midplatforms",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite5",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1528,
+			"y": -865,
+			"scale": [
+				0,
+				0
+			],
+			"image": "Starman_BG_Fire_Assets",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"firstAnimation": null,
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"animations": null,
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1232,
+			"y": -865,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Starman_BG_Fire_Assets",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2_copy1",
+			"firstAnimation": null,
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": null,
+			"type": "animatedSprite"
+		},
+		{
+			"x": -837,
+			"y": -439,
+			"scale": [
+				1,
+				1
+			],
+			"image": "SS_farplatforms",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite6",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 949,
+			"y": 780,
+			"scale": [
+				1,
+				1
+			],
+			"image": "SS_POWblock",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite7",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -802,
+			"y": -479,
+			"scale": [
+				1,
+				1
+			],
+			"image": "SS_floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -1002,
+			"y": -439,
+			"scale": [
+				1,
+				1
+			],
+			"image": "SS_foreground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite3",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"defaultZoom": 0.8,
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "fatherless",
+		"dad": "EVIL Silly V2"
+	},
+	"opponent": [
+		100,
+		240,
+		400,
+		350,
+		0.5,
+		20
+	],
+	"directory": "",
+	"girlfriend": [
+		790,
+		310,
+		790,
+		310,
+		0.5,
+		20
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		1671,
+		240,
+		1020,
+		500,
+		0.5,
+		20
+	]
+}
