@@ -1,5 +1,3 @@
-// The FNF Weekend 1 Rain shader! Ported by Orsonster most of it was unchanged from source, just adjusted to work with Psych engine!
-
 #pragma header
 uniform float iTime;
 uniform float iIntensity;
@@ -14,7 +12,7 @@ vec2 iResolution = openfl_TextureSize;
 
 float rand(vec2 a) {
     return fract(sin(dot(mod(a, vec2(1000.0)).xy, vec2(12.9898, 78.233))) * 43758.5453);
-}
+} //05829823xvideos enenas negras asiaticas 
 
 float ease(float t) {
     return t * t * (3.0 - 2.0 * t);
