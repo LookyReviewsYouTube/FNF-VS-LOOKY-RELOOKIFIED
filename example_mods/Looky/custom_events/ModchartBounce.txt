@@ -1,0 +1,7 @@
+Val 1 | CamHud Bounce 
+Val 2 | Icon bounce
+
+on for ON
+off for OFF
+
+btw you need Val 1 on for Val 2 to work 

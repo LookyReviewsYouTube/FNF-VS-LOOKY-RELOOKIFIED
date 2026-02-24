@@ -1,0 +1,14 @@
+1, t, on, yes, true      = on
+0, f, off, no, false     = off
+
+
+v1 
+cam = v2 (on or off)
+
+target = v2 (bf,dad or gf (center))
+
+camAngle = v2 (on or off)
+
+ag = v2 (value - recomended = 3 or 1)
+
+offset = v2 (value - recomended = 30 or 25)

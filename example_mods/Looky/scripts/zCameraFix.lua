@@ -14,7 +14,7 @@ local config = {
 	betterShake = true,
 	betterShakeHardness = .5, -- from 0 to 1
 	betterShakeFadeTime = .15,
-	useScrollForShake = true
+	useScrollForShake = false
 }
 
 
@@ -404,8 +404,9 @@ function updateCam(t, dt)
 	t.setProperty("_flashOffset.x", (t.width * .5) * scaleModeX * initialZoom - (x * scaleModeX))
 	t.setProperty("_flashOffset.y", (t.height * .5) * scaleModeY * initialZoom - (y * scaleModeY))
 	
-	if (t == cams.game) then
-		setProperty("camFollowPos.x", getProperty("camFollowPos.x") + t.scrollOffset.x)
+	local x = getProperty("camFollowPos.x")
+	if (t == cams.game and type(x) == "number") then
+		setProperty("camFollowPos.x", x + t.scrollOffset.x)
 		setProperty("camFollowPos.y", getProperty("camFollowPos.y") + t.scrollOffset.x)
 	else
 		t.setProperty("scroll.x", t.getProperty("scroll.x") + t.scrollOffset.x)

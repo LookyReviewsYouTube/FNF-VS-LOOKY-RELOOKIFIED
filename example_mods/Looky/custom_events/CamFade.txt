@@ -1,0 +1,1 @@
+CamFade//hud,1,1.5//false,false

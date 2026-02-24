@@ -1,12 +1,8 @@
-Value 1: Zoom Add
+Value 1: defaultZoom
 Value 2: Duración,ease
 
 Ejemplo:
 Value 1: 0.5
 Value 2: 1,circOut
-
-Segundo ejemplo:
-Value 1: -0.2
-Value 2: 0.2
 
 El ease es opcional, por defecto es (linear)

@@ -1,0 +1,6 @@
+if v2: nothing = flash
+		v1:speed
+	else
+		v1: alpha
+		v2: speed
+		

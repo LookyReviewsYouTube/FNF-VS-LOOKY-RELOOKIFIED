@@ -1,12 +1,7 @@
-local ZoomR = nil
-function onCreatePost()
-    if ZoomR == nil then
-        ZoomR = getProperty('defaultCamZoom')
-    end
-end
+local defZoom = getProperty('defaultCamZoom')
 
 function onEvent(n,v1,v2)
-    local additionalZoom = (v1 == '' and 0.07) or v1
+    local Zoom = (v1 == '' and defZoom) or v1
     local duration = 3
     local ease = 'smootherStepOut'
     if v2 and v2 ~= '' then
@@ -18,10 +13,9 @@ function onEvent(n,v1,v2)
             ease = params[2]
         end
     end
-    if n == 'Zoom' then
-        ZoomR = getProperty('defaultCamZoom') + additionalZoom
-        setProperty('defaultCamZoom',ZoomR)
-        doTweenZoom('AddZoomCamZ','camGame',ZoomR,stepCrochet * 0.001 * duration,ease)
+    if n == 'SetZoom' then
+        setProperty('defaultCamZoom',Zoom)
+        doTweenZoom('AddZoomCamZ','camGame',Zoom,stepCrochet * 0.001 * duration,ease)
     end
 end
 function split(inputstr,sep)
