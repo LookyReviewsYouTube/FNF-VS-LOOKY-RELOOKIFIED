@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Subterbeast idle0000"
+		},
+		{
+			"offsets": [1, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Subterbeast left0000"
+		},
+		{
+			"offsets": [-2, 23],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Subterbeast down0000"
+		},
+		{
+			"offsets": [0, -2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Subterbeast up0000"
+		},
+		{
+			"offsets": [-1, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Subterbeast right0000"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/subterbeast",
+	"position": [170, 0],
+	"healthicon": "alt",
+	"flip_x": false,
+	"healthbar_colors": [29, 73, 149],
+	"camera_position": [-500, -340],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

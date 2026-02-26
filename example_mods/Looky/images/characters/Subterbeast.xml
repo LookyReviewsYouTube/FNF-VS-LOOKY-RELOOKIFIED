@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Subterbeast.png">
+<SubTexture name="Subterbeast idle0000" x="0" y="0" width="719" height="922" frameX="0" frameY="-9" frameWidth="1047" frameHeight="931" />
+<SubTexture name="Subterbeast left0000" x="1549" y="0" width="735" height="859" frameX="0" frameY="-72" frameWidth="1047" frameHeight="931" />
+<SubTexture name="Subterbeast up0000" x="719" y="0" width="830" height="872" frameX="0" frameY="-59" frameWidth="1047" frameHeight="931" />
+<SubTexture name="Subterbeast right0000" x="0" y="922" width="771" height="785" frameX="-245" frameY="-146" frameWidth="1047" frameHeight="931" />
+<SubTexture name="Subterbeast down0000" x="771" y="922" width="545" height="730" frameX="-172" frameY="-201" frameWidth="1047" frameHeight="931" />
+</TextureAtlas>

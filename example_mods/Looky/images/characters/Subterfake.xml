@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Subterfake.png">
+<SubTexture name="Subterfake idle0000" x="866" y="0" width="376" height="654" frameX="-143" frameY="-43" frameWidth="646" frameHeight="707" />
+<SubTexture name="Subterfake right0000" x="450" y="0" width="416" height="658" frameX="-141" frameY="-39" frameWidth="646" frameHeight="707" />
+<SubTexture name="Subterfake left0000" x="0" y="689" width="425" height="607" frameX="-108" frameY="-90" frameWidth="646" frameHeight="707" />
+<SubTexture name="Subterfake up0000" x="0" y="0" width="450" height="689" frameX="-100" frameY="-13" frameWidth="646" frameHeight="707" />
+<SubTexture name="Subterfake down0000" x="1242" y="0" width="551" height="618" frameX="-34" frameY="-88" frameWidth="646" frameHeight="707" />
+</TextureAtlas>

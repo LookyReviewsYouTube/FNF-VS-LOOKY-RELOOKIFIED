@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Subterlooking.png">
+<SubTexture name="Subterlooking idle0000" x="525" y="0" width="485" height="657" frameX="-95" frameY="-76" frameWidth="648" frameHeight="759" />
+<SubTexture name="Subterlooking right0000" x="561" y="679" width="574" height="644" frameX="-12" frameY="-88" frameWidth="648" frameHeight="759" />
+<SubTexture name="Subterlooking down0000" x="1010" y="0" width="547" height="655" frameX="-55" frameY="-75" frameWidth="648" frameHeight="759" />
+<SubTexture name="Subterlooking up0000" x="0" y="679" width="561" height="652" frameX="-87" frameY="-65" frameWidth="648" frameHeight="759" />
+<SubTexture name="Subterlooking left0000" x="0" y="0" width="525" height="679" frameX="-38" frameY="-62" frameWidth="648" frameHeight="759" />
+</TextureAtlas>
