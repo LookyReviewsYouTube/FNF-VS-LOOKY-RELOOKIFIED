@@ -1,7 +1,7 @@
 {
 	"storyName": "Your New Week",
 	"difficulties": "",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
@@ -13,12 +13,12 @@
 	"hideStoryMode": true,
 	"songs": [
 		[
-			"Impending-Doom",
-			"dad",
+			"BEAR-REALM",
+			"icon-bear5",
 			[
-				146,
-				113,
-				253
+				0,
+				47,
+				94
 			]
 		]
 	],
@@ -28,5 +28,5 @@
 		"gf"
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"weekName": "BEAR5 SUCKS"
 }
