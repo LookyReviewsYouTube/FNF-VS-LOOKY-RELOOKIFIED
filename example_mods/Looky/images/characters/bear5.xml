@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bear5.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="12" y="12" width="325" height="577"/>
+	<SubTexture name="idle0000" x="349" y="12" width="325" height="577"/>
+	<SubTexture name="jumpscare0000" x="686" y="12" width="368" height="223"/>
+	<SubTexture name="left0000" x="1066" y="12" width="325" height="577"/>
+	<SubTexture name="right0000" x="1403" y="12" width="325" height="577"/>
+	<SubTexture name="up0000" x="12" y="601" width="325" height="577"/>
+</TextureAtlas>

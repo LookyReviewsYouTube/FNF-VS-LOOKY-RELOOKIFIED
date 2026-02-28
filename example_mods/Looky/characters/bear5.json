@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "jumpscare",
+			"loop": false,
+			"name": "jumpscare"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bear5",
+	"position": [
+		-700,
+		110
+	],
+	"healthicon": "bear5",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		1,
+		0
+	],
+	"camera_position": [
+		-170,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
