@@ -1,0 +1,5 @@
+V1 : Won = WhiteBG and Black Chars
+V1 : Bon = BlackBG and White Chars
+V1 : Perd = BlackBG and Perd Chars
+V1 : Con = BlackBG and Icon Chars
+V1 : Off = Normal
