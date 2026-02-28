@@ -1,0 +1,269 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Cam Zoom", "0.6", ""]
+			]
+		],
+		[
+			11250,
+			[
+				["Set Cam Zoom", "0.7", ""]
+			]
+		],
+		[
+			15000,
+			[
+				["Set Cam Zoom", "0.6", ""]
+			]
+		],
+		[
+			16757.8125,
+			[
+				["Camera Zoom Chain", "0.015, 0.03", "60, 1"]
+			]
+		],
+		[
+			16875,
+			[
+				["Set Cam Zoom", "0.5", ""]
+			]
+		],
+		[
+			16879.8828125,
+			[
+				["Show Song", "", ""]
+			]
+		],
+		[
+			20625,
+			[
+				["Show Song", "1", ""]
+			]
+		],
+		[
+			31875,
+			[
+				["Set Cam Zoom", "0.6", ""]
+			]
+		],
+		[
+			33750,
+			[
+				["Set Cam Zoom", "0.7", ""]
+			]
+		],
+		[
+			35625,
+			[
+				["Set Cam Zoom", "0.6", ""]
+			]
+		],
+		[
+			37500,
+			[
+				["Set Cam Zoom", "0.7", ""]
+			]
+		],
+		[
+			39375,
+			[
+				["Set Cam Zoom", "0.6", ""]
+			]
+		],
+		[
+			41250,
+			[
+				["Set Cam Zoom", "0.7", ""]
+			]
+		],
+		[
+			43125,
+			[
+				["Set Cam Zoom", "0.6", ""]
+			]
+		],
+		[
+			44990.234375,
+			[
+				["Triggers Starman Slaughter", "0", ""]
+			]
+		],
+		[
+			45000,
+			[
+				["Set Cam Zoom", "0.4", ""]
+			]
+		],
+		[
+			46757.8125,
+			[
+				["Camera Zoom Chain", "0.015, 0.03, 0.0015, 0.0015", "32, 1"]
+			]
+		],
+		[
+			46865.234375,
+			[
+				["Triggers Starman Slaughter", "1", ""]
+			]
+		],
+		[
+			46875,
+			[
+				["Set Cam Zoom", "0.5", ""]
+			]
+		],
+		[
+			61875,
+			[
+				["Change Character", "gf", "bsexf"]
+			]
+		],
+		[
+			91757.8125,
+			[
+				["Camera Zoom Chain", "0.03, 0.04, 0.0015, 0.0015", "32, 2"]
+			]
+		],
+		[
+			91875,
+			[
+				["Set Cur Target", "", ""]
+			]
+		],
+		[
+			120000,
+			[
+				["Triggers Starman Slaughter", "4", ""]
+			]
+		],
+		[
+			122695.3125,
+			[
+				["Ocultar HUD", "0", ""]
+			]
+		],
+		[
+			122812.5,
+			[
+				["Triggers Starman Slaughter", "5", ""]
+			]
+		],
+		[
+			124687.5,
+			[
+				["Triggers Starman Slaughter", "6", ""]
+			]
+		],
+		[
+			125742.1875,
+			[
+				["Change Character", "1", "peach-exe"]
+			]
+		],
+		[
+			126445.3125,
+			[
+				["Ocultar HUD", "2", ""]
+			]
+		],
+		[
+			127265.625,
+			[
+				["Triggers Starman Slaughter", "7", ""]
+			]
+		],
+		[
+			127968.75,
+			[
+				["Triggers Starman Slaughter", "8", ""]
+			]
+		],
+		[
+			157382.8125,
+			[
+				["Camera Zoom Chain", "0.015, 0.03", "64, 1"]
+			]
+		],
+		[
+			157500,
+			[
+				["Triggers Starman Slaughter", "9", ""]
+			]
+		],
+		[
+			183281.25,
+			[
+				["Triggers Starman Slaughter", "10", ""]
+			]
+		],
+		[
+			185156.25,
+			[
+				["Triggers Starman Slaughter", "11", ""]
+			]
+		],
+		[
+			187500,
+			[
+				["Triggers Starman Slaughter", "11.5", ""]
+			]
+		],
+		[
+			189375,
+			[
+				["Triggers Starman Slaughter", "12", ""]
+			]
+		],
+		[
+			190307.6171875,
+			[
+				["Change Character", "1", "mariohorror-melt"]
+			]
+		],
+		[
+			190312.5,
+			[
+				["Triggers Starman Slaughter", "13", ""]
+			]
+		],
+		[
+			191132.8125,
+			[
+				["Triggers Starman Slaughter", "14", ""]
+			]
+		],
+		[
+			208007.8125,
+			[
+				["Camera Zoom Chain", "0.015, 0.03", "68, 1"]
+			]
+		],
+		[
+			208125,
+			[
+				["Triggers Starman Slaughter", "14", ""]
+			]
+		],
+		[
+			240000,
+			[
+				["Triggers Starman Slaughter", "16", ""]
+			]
+		],
+		[
+			240468.75,
+			[
+				["Play Animation", "end", "0"]
+			]
+		],
+		[
+			240937.5,
+			[
+				["Triggers Starman Slaughter", "17", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
