@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="looky_bear_realm_2nd.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="998" y="0" width="1067" height="983" frameX="-461" frameY="-555" frameWidth="2048" frameHeight="1536"/>
+	<SubTexture name="anim0000" x="0" y="0" width="998" height="1088" frameX="-500" frameY="-450" frameWidth="2048" frameHeight="1536"/>
+	<SubTexture name="anim0001" x="0" y="1088" width="998" height="959" frameX="-500" frameY="-579" frameWidth="2048" frameHeight="1536"/>
+	<SubTexture name="anim0002" x="2065" y="0" width="1097" height="858" frameX="-446" frameY="-680" frameWidth="2048" frameHeight="1536"/>
+</TextureAtlas>
