@@ -1,6 +1,6 @@
 luaDebugMode = true
 
-local modFolderName = "Custom Pause By Mega V1.7.0" -- for the mobile port. If the name doesn't match, there will be errors on the phones
+local modFolderName = "Looky" -- for the mobile port. If the name doesn't match, there will be errors on the phones
 
 -- for select option
 local selectTime = .4

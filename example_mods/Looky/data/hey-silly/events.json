@@ -1,15 +1,9 @@
 {
 	"events": [
 		[
-			89655.172413793,
+			1379.31034482759,
 			[
-				["Cinematics_With_HUD", "1", "90"]
-			]
-		],
-		[
-			111724.137931034,
-			[
-				["Cinematics_With_HUD", "1", "0"]
+				["ModchartBounce", "on", "on"]
 			]
 		]
 	],

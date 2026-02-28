@@ -1,16 +1,47 @@
 {
-	"song": {
-		"events": [
+	"events": [
+		[
+			0,
 			[
-				0,
-				[
-					[
-						"Song Name Info",
-						"Cover by Looky",
-						"Silly Sprites made by Silly UNTITLED"
-					]
-				]
+				["Song Name Info", "Cover by Looky", "Silly Sprites made by Silly UNTITLED"]
+			]
+		],
+		[
+			10666.6666666667,
+			[
+				["ModchartBounce", "on", "on"]
+			]
+		],
+		[
+			32333.3333333333,
+			[
+				["ModchartBounce", "on", "on"]
+			]
+		],
+		[
+			74666.6666666667,
+			[
+				["ModchartBounce", "off", "on"]
+			]
+		],
+		[
+			85333.3333333333,
+			[
+				["ModchartBounce", "on", "on"]
+			]
+		],
+		[
+			106666.666666667,
+			[
+				["ModchartBounce", "off", "on"]
+			]
+		],
+		[
+			117333.333333333,
+			[
+				["ModchartBounce", "off", "on"]
 			]
 		]
-	}
+	],
+	"format": "psych_v1"
 }
