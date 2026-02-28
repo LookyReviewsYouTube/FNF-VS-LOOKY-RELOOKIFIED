@@ -1,4 +1,3 @@
-Add .lua scripts here!
-Lua scripts in this folder will be loaded on all songs, no matter the difficulty, song name, week or anything.
+Put your .lua/.hx scripts here!
 
-If you've put it inside a modpack, as long as the modpack is loaded, the script will be running.
+Scripts here run everywhere, if you want a script to play only for a specific song, put them in songs/song-name/script.lua or script.hx.

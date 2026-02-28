@@ -1,0 +1,55 @@
+[
+	{
+		"description": "Select music",
+		"value": "Breakfast",
+		"save": "Music_on_pause",
+		"options": [
+			"Song Instrumental",
+			"Breakfast",
+			"Breakfast (Pico)",
+			"Breakfast (Pixel)",
+			"Tea time",
+			"Freeplay Random",
+			"Menu (Indie Cross)",
+			"Stay Funky",
+			"Girlfriends Ringtone",
+			"Freaky Menu",
+			"None"
+		],
+		"type": "string",
+		"name": "Music on pause:"
+	},
+	{
+		"description": "Select background color when paused",
+		"value": "Default",
+		"save": "Pause_bg_color",
+		"options": [
+			"Default",
+			"White",
+			"Blue"
+		],
+		"type": "string",
+		"name": "Pause Theme:"
+	},
+	{
+		"description": "Select text animation when paused",
+		"value": true,
+		"save": "Pause_text_anims",
+		"type": "bool",
+		"name": "Pause Text Animation"
+	},
+	{
+		"description": "Enable custom settings while paused (simple settings)",
+		"value": true,
+		"save": "Custom_settings",
+		"type": "bool",
+		"name": "Custom Settings (In development)"
+	},
+	{
+		"description": "just removes or adds background in custom settings",
+		"value": true,
+		"save": "Bg_in_settings",
+		"type": "bool",
+		"name": "Background in custom settings"
+	}
+]

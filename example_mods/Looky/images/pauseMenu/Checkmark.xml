@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Checkmark.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Checkmark0000" x="50" y="50" width="536" height="113"/>
+	<SubTexture name="Checkmark_cancel0000" x="50" y="213" width="561" height="113"/>
+</TextureAtlas>

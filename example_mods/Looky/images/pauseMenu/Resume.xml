@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Resume.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Resume_Select0000" x="50" y="50" width="479" height="146"/>
+	<SubTexture name="Resume_Select0001" x="50" y="50" width="479" height="146"/>
+	<SubTexture name="Resume_Select0002" x="579" y="50" width="479" height="146"/>
+	<SubTexture name="Resume_Select0003" x="579" y="50" width="479" height="146"/>
+	<SubTexture name="Resume_Select0004" x="1108" y="50" width="479" height="146"/>
+	<SubTexture name="Resume_Select0005" x="1108" y="50" width="479" height="146"/>
+	<SubTexture name="Resume_Unselect0000" x="50" y="246" width="479" height="146"/>
+	<SubTexture name="Resume_Unselect0001" x="50" y="246" width="479" height="146"/>
+	<SubTexture name="Resume_Unselect0002" x="579" y="246" width="479" height="146"/>
+	<SubTexture name="Resume_Unselect0003" x="579" y="246" width="479" height="146"/>
+	<SubTexture name="Resume_Unselect0004" x="1108" y="246" width="479" height="146"/>
+	<SubTexture name="Resume_Unselect0005" x="1108" y="246" width="479" height="146"/>
+</TextureAtlas>

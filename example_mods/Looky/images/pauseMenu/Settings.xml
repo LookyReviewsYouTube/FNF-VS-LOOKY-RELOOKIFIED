@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Settings.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Settings_Select0000" x="50" y="50" width="591" height="147"/>
+	<SubTexture name="Settings_Select0001" x="50" y="50" width="591" height="147"/>
+	<SubTexture name="Settings_Select0002" x="691" y="50" width="591" height="147"/>
+	<SubTexture name="Settings_Select0003" x="691" y="50" width="591" height="147"/>
+	<SubTexture name="Settings_Select0004" x="1332" y="50" width="591" height="147"/>
+	<SubTexture name="Settings_Select0005" x="1332" y="50" width="591" height="147"/>
+	<SubTexture name="Settings_Unselect0000" x="50" y="247" width="590" height="146"/>
+	<SubTexture name="Settings_Unselect0001" x="50" y="247" width="590" height="146"/>
+	<SubTexture name="Settings_Unselect0002" x="690" y="247" width="590" height="146"/>
+	<SubTexture name="Settings_Unselect0003" x="690" y="247" width="590" height="146"/>
+	<SubTexture name="Settings_Unselect0004" x="1330" y="247" width="590" height="146"/>
+	<SubTexture name="Settings_Unselect0005" x="1330" y="247" width="590" height="146"/>
+</TextureAtlas>

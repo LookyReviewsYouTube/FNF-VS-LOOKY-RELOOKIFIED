@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SteveBowl.png">
+<SubTexture name="SteveBowl idle0000" x="0" y="0" width="498" height="460" frameX="0" frameY="0" frameWidth="498" frameHeight="460" />
+</TextureAtlas>

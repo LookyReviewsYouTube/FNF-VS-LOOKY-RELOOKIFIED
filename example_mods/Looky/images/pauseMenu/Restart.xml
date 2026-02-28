@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Restart.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Restart_Select0000" x="50" y="50" width="555" height="148"/>
+	<SubTexture name="Restart_Select0001" x="50" y="50" width="555" height="148"/>
+	<SubTexture name="Restart_Select0002" x="655" y="50" width="555" height="148"/>
+	<SubTexture name="Restart_Select0003" x="655" y="50" width="555" height="148"/>
+	<SubTexture name="Restart_Select0004" x="1260" y="50" width="555" height="148"/>
+	<SubTexture name="Restart_Select0005" x="1260" y="50" width="555" height="148"/>
+	<SubTexture name="Restart_Unselect0000" x="50" y="248" width="555" height="148"/>
+	<SubTexture name="Restart_Unselect0001" x="50" y="248" width="555" height="148"/>
+	<SubTexture name="Restart_Unselect0002" x="655" y="248" width="555" height="148"/>
+	<SubTexture name="Restart_Unselect0003" x="655" y="248" width="555" height="148"/>
+	<SubTexture name="Restart_Unselect0004" x="1260" y="248" width="555" height="148"/>
+	<SubTexture name="Restart_Unselect0005" x="1260" y="248" width="555" height="148"/>
+</TextureAtlas>

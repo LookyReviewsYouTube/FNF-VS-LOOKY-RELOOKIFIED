@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Exit.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Exit_Select0000" x="50" y="50" width="263" height="132"/>
+	<SubTexture name="Exit_Select0001" x="50" y="50" width="263" height="132"/>
+	<SubTexture name="Exit_Select0002" x="363" y="50" width="263" height="132"/>
+	<SubTexture name="Exit_Select0003" x="363" y="50" width="263" height="132"/>
+	<SubTexture name="Exit_Select0004" x="676" y="50" width="263" height="132"/>
+	<SubTexture name="Exit_Select0005" x="676" y="50" width="263" height="132"/>
+	<SubTexture name="Exit_Unselect0000" x="50" y="232" width="262" height="132"/>
+	<SubTexture name="Exit_Unselect0001" x="50" y="232" width="262" height="132"/>
+	<SubTexture name="Exit_Unselect0002" x="362" y="232" width="262" height="132"/>
+	<SubTexture name="Exit_Unselect0003" x="362" y="232" width="262" height="132"/>
+	<SubTexture name="Exit_Unselect0004" x="674" y="232" width="262" height="132"/>
+	<SubTexture name="Exit_Unselect0005" x="674" y="232" width="262" height="132"/>
+</TextureAtlas>
