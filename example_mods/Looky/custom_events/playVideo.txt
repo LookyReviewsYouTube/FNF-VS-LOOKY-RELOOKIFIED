@@ -1,1 +1,4 @@
-value 1: the video's file name.
+Plays a video in game
+
+Value 1: Video you want to play (should be in mods/videos)
+Value 2: does fuck all
