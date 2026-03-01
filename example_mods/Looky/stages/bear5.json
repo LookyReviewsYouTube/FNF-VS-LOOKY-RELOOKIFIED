@@ -1,0 +1,122 @@
+{
+	"_editorMeta": {
+		"boyfriend": "bear5",
+		"gf": "gf",
+		"dad": "bsexf"
+	},
+	"girlfriend": [
+		485,
+		15
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		870,
+		30
+	],
+	"objects": [
+		{
+			"x": -816,
+			"y": -1197,
+			"scale": [
+				1.7,
+				1.7
+			],
+			"image": "bg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -349,
+			"y": 910,
+			"scale": [
+				0,
+				0
+			],
+			"image": "looky text",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"firstAnimation": "anim",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "anim",
+					"loop": true,
+					"name": "anim"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -349,
+			"y": -280,
+			"scale": [
+				2.5,
+				2.5
+			],
+			"image": "looky text",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2_copy1",
+			"firstAnimation": "anim",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "anim",
+					"loop": true,
+					"name": "anim"
+				}
+			],
+			"type": "animatedSprite"
+		}
+	],
+	"defaultZoom": 0.45,
+	"directory": "",
+	"opponent": [
+		195,
+		70
+	],
+	"hide_girlfriend": true
+}
