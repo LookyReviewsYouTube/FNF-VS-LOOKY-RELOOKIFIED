@@ -1,8 +1,8 @@
 {
 	"_editorMeta": {
 		"boyfriend": "bear5",
-		"gf": "gf",
-		"dad": "bsexf"
+		"dad": "bsexf",
+		"gf": "gf"
 	},
 	"girlfriend": [
 		485,
@@ -15,11 +15,11 @@
 	],
 	"objects": [
 		{
-			"x": -816,
-			"y": -1197,
+			"x": -1196,
+			"y": -1377,
 			"scale": [
-				1.7,
-				1.7
+				2,
+				1.75
 			],
 			"image": "bg",
 			"flipX": false,
@@ -46,8 +46,8 @@
 			"type": "boyfriend"
 		},
 		{
-			"x": -349,
-			"y": 910,
+			"x": -1197,
+			"y": -344,
 			"scale": [
 				0,
 				0
@@ -57,7 +57,7 @@
 			"filters": 3,
 			"color": "FFFFFF",
 			"angle": 0,
-			"name": "sprite2",
+			"name": "sprite2_copy1",
 			"firstAnimation": "anim",
 			"antialiasing": true,
 			"flipY": false,
@@ -79,18 +79,18 @@
 			"type": "animatedSprite"
 		},
 		{
-			"x": -349,
-			"y": -280,
+			"x": -1197,
+			"y": 856,
 			"scale": [
-				2.5,
-				2.5
+				5,
+				3.5
 			],
 			"image": "looky text",
 			"flipX": false,
 			"filters": 3,
 			"color": "FFFFFF",
 			"angle": 0,
-			"name": "sprite2_copy1",
+			"name": "sprite2_copy1_copy1",
 			"firstAnimation": "anim",
 			"antialiasing": true,
 			"flipY": false,
@@ -101,12 +101,12 @@
 			"alpha": 1,
 			"animations": [
 				{
-					"offsets": null,
-					"indices": [],
-					"fps": 24,
-					"anim": "anim",
 					"loop": true,
-					"name": "anim"
+					"offsets": null,
+					"anim": "anim",
+					"fps": 24,
+					"name": "anim",
+					"indices": []
 				}
 			],
 			"type": "animatedSprite"
