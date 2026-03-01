@@ -1,8 +1,8 @@
 {
 	"_editorMeta": {
 		"boyfriend": "bear5",
-		"dad": "bsexf",
-		"gf": "gf"
+		"gf": "gf",
+		"dad": "bsexf"
 	},
 	"girlfriend": [
 		485,
@@ -47,7 +47,7 @@
 		},
 		{
 			"x": -1197,
-			"y": -344,
+			"y": 856,
 			"scale": [
 				0,
 				0
@@ -57,7 +57,7 @@
 			"filters": 3,
 			"color": "FFFFFF",
 			"angle": 0,
-			"name": "sprite2_copy1",
+			"name": "looky_text_1",
 			"firstAnimation": "anim",
 			"antialiasing": true,
 			"flipY": false,
@@ -79,8 +79,8 @@
 			"type": "animatedSprite"
 		},
 		{
-			"x": -1197,
-			"y": 856,
+			"x": -1191,
+			"y": -320,
 			"scale": [
 				5,
 				3.5
@@ -90,7 +90,7 @@
 			"filters": 3,
 			"color": "FFFFFF",
 			"angle": 0,
-			"name": "sprite2_copy1_copy1",
+			"name": "looky_text_2",
 			"firstAnimation": "anim",
 			"antialiasing": true,
 			"flipY": false,
@@ -101,12 +101,12 @@
 			"alpha": 1,
 			"animations": [
 				{
-					"loop": true,
 					"offsets": null,
-					"anim": "anim",
+					"loop": true,
 					"fps": 24,
-					"name": "anim",
-					"indices": []
+					"anim": "anim",
+					"indices": [],
+					"name": "anim"
 				}
 			],
 			"type": "animatedSprite"
