@@ -2449,6 +2449,7 @@
 		]
 	],
 	"player3": null,
+	"disableNoteRGB": true,
 	"song": "BEAR-REALM",
 	"needsVoices": true,
 	"sections": 0,
